@@ -1,0 +1,12 @@
+build*
+dist
+docs
+erewhon
+.fbwarnings
+fileiotest.dat
+reports-*
+TEST-*
+IGNORETHIS.xml
+TESTS-TestSuites.xml
+target
+/fileiotest.dat.bak
